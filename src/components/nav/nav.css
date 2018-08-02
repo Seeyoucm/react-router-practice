@@ -1,0 +1,17 @@
+.c-nav {
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    background: #000;
+  }
+  .c-nav a {
+    text-decoration: none;
+    color: #808080;
+    line-height: 40px;
+    padding: 0 10px;
+    display: flex;
+  }
+  .c-nav a:hover {
+    color: #fff;
+    background-color: #333;
+  }

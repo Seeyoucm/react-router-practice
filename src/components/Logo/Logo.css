@@ -1,0 +1,11 @@
+.c-logo {
+    display: flex;
+    align-items: center;
+  }
+  .c-logo.vertical {
+    justify-content: center;
+    flex-direction: column;
+  }
+  .c-logo-img {
+    height: 100px;
+  }
